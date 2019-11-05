@@ -1,2 +1,4 @@
-new test document
+
 changes from remote repo
+
+some changes from local repo
