@@ -3,8 +3,6 @@ changes from remote repo
 
 some changes from local repo
 
-++++++++++++=
-sdddddddddddd
-+ ome more
+testing of new branch
 
-revert lesson ++++
+master commit
