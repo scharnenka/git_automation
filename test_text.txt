@@ -1,7 +1,11 @@
 
 changes from remote repo
 
+
 some changes from master
++
+some changes from branch feature
+
 
 testing of new branch
 
